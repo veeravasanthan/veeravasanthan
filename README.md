@@ -137,7 +137,6 @@
   <h4>📄 A Smart Pill Dispenser with Real-Time Alerts, Remote Access and Enhanced Safety</h4>
   <p>Presented and published in peer-reviewed IEEE international conferences:</p>
   <ul>
-    <li>🏛️ <strong>ICDCC 2024</strong> (International Conference on Data Communication)</li>
     <li>🏛️ <strong>ICCIRT 2024</strong> (International Conference on Innovative Research)</li>
   </ul>
   <p><em>Keywords: Healthcare AI, Internet of Things (IoT), Embedded Systems</em></p>
@@ -181,7 +180,7 @@
 
 #### 📬 Let's Connect
 
-**[Email](mailto:veeravasanthan@example.com)** &nbsp;•&nbsp; **[LinkedIn](https://linkedin.com/in/veeravasanthan)** &nbsp;•&nbsp; **[GitHub](https://github.com/Veeravasanthan)**
+**[Email](mailto:veeravasanthan6@gmail.com)** &nbsp;•&nbsp; **[LinkedIn](https://linkedin.com/in/veeravasanthan)** &nbsp;•&nbsp; **[GitHub](https://github.com/Veeravasanthan)**
 
 <sub>*Designed for elegance & clarity. Open to AI/ML internships, research collaborations, and developer roles.*</sub>
 
