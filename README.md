@@ -35,30 +35,10 @@
 
 ### 🧬 About Me
 
-```javascript
-const express = require('express');
-const app = express();
-
-app.get('/developer/veeravasanthan', (req, res) => {
-  res.status(200).json({
-    name: "Veeravasanthan",
-    role: "AI & ML Engineer | Computer Vision Developer",
-    degree: "B.Tech — Artificial Intelligence & Data Science Student",
-    location: "India 🇮🇳",
-    publishedAuthor: true, // IEEE Conference Publication
-    
-    interests: [
-      "🤖 Deep Learning & Neural Networks",
-      "👁️ Computer Vision & Object Detection",
-      "💬 Natural Language Processing (NLP)",
-      "🚀 Generative AI (LLMs, Diffusion Models)"
-    ],
-    
-    currentFocus: "Building production-grade AI systems & Publishing Research",
-    status: "Open to Internships, Placements, and Research Roles 🟢"
-  });
-});
-```
+<blockquote>
+  <p>👋 <strong>Hello, I'm Veeravasanthan.</strong></p>
+  <p>I am a B.Tech Artificial Intelligence & Data Science student passionate about building real-world AI, Deep Learning, and Computer Vision systems. With a strong foundation in software engineering and a published research paper, I bridge the gap between academic research and production-grade ML applications.</p>
+</blockquote>
 
 - 🧠 **Focus Area** &nbsp;•&nbsp; Generative AI, Computer Vision, and Natural Language Processing.
 - 🔬 **Research** &nbsp;•&nbsp; IEEE conference author exploring healthcare automation and IoT.
