@@ -137,6 +137,7 @@
   <h4>📄 A Smart Pill Dispenser with Real-Time Alerts, Remote Access and Enhanced Safety</h4>
   <p>Presented and published in peer-reviewed IEEE international conferences:</p>
   <ul>
+    <li>🏛️ <strong>ICDCC 2024</strong> (International Conference on Data Communication)</li>
     <li>🏛️ <strong>ICCIRT 2024</strong> (International Conference on Innovative Research)</li>
   </ul>
   <p><em>Keywords: Healthcare AI, Internet of Things (IoT), Embedded Systems</em></p>
@@ -168,9 +169,13 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Veeravasanthan&amp;show_icons=true&amp;bg_color=0D1117&amp;title_color=3B82F6&amp;icon_color=8B5CF6&amp;text_color=C9D1D9&amp;border_radius=8&amp;hide_border=true&amp;count_private=true" alt="Stats" />
+<a href="https://github.com/Veeravasanthan" target="_blank">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Veeravasanthan&amp;show_icons=true&amp;bg_color=0D1117&amp;title_color=3B82F6&amp;icon_color=8B5CF6&amp;text_color=C9D1D9&amp;border_radius=8&amp;hide_border=true&amp;count_private=true" alt="Stats" />
+</a>
 &nbsp;&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veeravasanthan&amp;layout=compact&amp;langs_count=6&amp;bg_color=0D1117&amp;title_color=3B82F6&amp;text_color=C9D1D9&amp;border_radius=8&amp;hide_border=true" alt="Languages" />
+<a href="https://github.com/Veeravasanthan" target="_blank">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veeravasanthan&amp;layout=compact&amp;langs_count=6&amp;bg_color=0D1117&amp;title_color=3B82F6&amp;text_color=C9D1D9&amp;border_radius=8&amp;hide_border=true" alt="Languages" />
+</a>
 
 </div>
 
@@ -180,7 +185,7 @@
 
 #### 📬 Let's Connect
 
-**[Email](mailto:veeravasanthan6@gmail.com)** &nbsp;•&nbsp; **[LinkedIn](https://linkedin.com/in/veeravasanthan)** &nbsp;•&nbsp; **[GitHub](https://github.com/Veeravasanthan)**
+**[Email](mailto:veeravasanthan@example.com)** &nbsp;•&nbsp; **[LinkedIn](https://linkedin.com/in/veeravasanthan)** &nbsp;•&nbsp; **[GitHub](https://github.com/Veeravasanthan)**
 
 <sub>*Designed for elegance & clarity. Open to AI/ML internships, research collaborations, and developer roles.*</sub>
 
